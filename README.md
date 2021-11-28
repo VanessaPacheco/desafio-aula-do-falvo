@@ -1,2 +1,6 @@
 # desafio-aula-do-falvo
-Projeto do curso sobre Git/Github instruído por Venilton Falvo Jr.
+Repositório criado para o Desafio de Projeto do curso sobre Git/Github instruído por Venilton Falvo Jr.
+
+## Links úteis:
+
+[Saiba mais sobre Markdown:]  (https://www.markdownguide.org/basic-syntax/)
