@@ -3,4 +3,4 @@ Repositório criado para o Desafio de Projeto do curso sobre Git/Github instruí
 
 ## Links úteis:
 
-[Saiba mais sobre Markdown:](https://www.markdownguide.org/basic-syntax/)
+[Saiba mais sobre Markdown clicando aqui](https://www.markdownguide.org/basic-syntax/)
